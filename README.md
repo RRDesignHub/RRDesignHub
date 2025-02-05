@@ -4,9 +4,22 @@
 
 <h1 align="center">Hey, I'm Ripanul Alam! 🚀</h1>
 
-A passionate **Full-Stack Developer** with expertise in the **MERN Stack**.  
-I love building **modern web applications** using **React, Node.js, Tailwind CSS, and MongoDB**, and I'm currently exploring **Next.js & TypeScript**.  
-When I'm not coding, you'll find me **vibing to classical, Sufi, and spiritual music**, finding deep meaning in lyrics. 🎶  
+###
+
+<p align="center">💻 Full-Stack Web Developer | MERN Enthusiast | Exploring Next.js & TypeScript 🚀</p>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">
+📚 I'm currently learning: <strong>Next.js, TypeScript</strong><br>
+🎯 Goals: <strong>Become an expert in the MERN stack</strong><br>
+🎲 Fun fact: <strong>Music lover</strong>
+</p>
+
 
 <br>
 <h2 align="center">🚀 Tech Stack & Tools</h2>
@@ -27,12 +40,7 @@ When I'm not coding, you'll find me **vibing to classical, Sufi, and spiritual m
   <a href="https://www.facebook.com/profile.php?id=61554680824041" target="_blank"> <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="40" /> </a> 
   <a href="mailto:ripanulalam8@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="40" /> </a> 
 </div>
-<br>
-<h2 align="center">🚀 Projects & Contributions</h2>
-
-  
-  <br>  
+<br>  
 <h2 align="center">🎵 Vibes While Coding</h2>
-<p>🎧 Classical - Sufi - Spiritual Beats
-"Deep words, deep meanings, and deep coding sessions."</p>
+<p>🎧 Classical - Sufi - Spiritual Beats "Deep words, deep meanings, and deep coding sessions."</p>
 
