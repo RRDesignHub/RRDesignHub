@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">💻 Full-Stack Web Developer | MERN Enthusiast | Exploring Next.js & TypeScript 🚀</p>
+<p align="center">💻 Junior Frontend Developer | MERN Enthusiast | Exploring Next.js & TypeScript 🚀</p>
 
 ###
 
